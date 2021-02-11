@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TestApp</string>
+    <string name="open_calculator_app">Open Calculator App</string>
 </resources>
